@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="denizkabugu">#fff5ee</color>
+    <color name="bej">#f5f5dc</color>
+    <color name="ecru">#cdb891</color>
+    <color name="floralwhite">#FFF6F2EB</color>
+    <color name="darkseagreen">#8fbc8f</color>
+    <color name="darkseagreendark">#6c9d6c</color>
+    <color name="lavenderblush">#fff0f5</color>
+    <color name="browntwo">#79443b</color>
+    <color name="rosybrown">#bc8f8f</color>
+    <color name="rosybrownish">#d7c7c7</color>
+    <color name="brown">#4b3f3a</color>
+</resources>
